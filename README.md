@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Max-poet
 - 👀 I’m interested in reading and writing poems
-- 🌱 I’m currently learning statistics, CSA, Chemistry and Linear Algebra
+- 🌱 I’m currently learning Economics, Statistics, CSA, Chemistry and Linear Algebra
 - 📫 How to reach me: email
 - 😄 Pronouns: Max
 - ⚡ Fun fact: The fun fact is fun
